@@ -93,7 +93,6 @@
   position: relative;
   display: flex;
   align-items: center;
-  border-bottom: 1px solid white;
 }
 
 .welcome::after {
@@ -123,10 +122,6 @@
 }
 
 /* Main Content */
-#MyBlog {
-  height: 5vh;
-  background: var(--background);
-}
 
 .main-content {
   background-color: #202020;
@@ -304,11 +299,6 @@
   align-items: center;
   justify-content: center;
   box-shadow: 0 0 25px 10px black;
-}
-
-#MyBio {
-  height: 5vh;
-  background-color: var(--background);
 }
 
 .my-bio::after {
@@ -591,8 +581,8 @@
     gap: 20px;
   }
 
-  .bio-content {
-    padding-top: 60px;
+  .my-bio {
+    height: 100vh;
   }
 
   .bio-content > img {
