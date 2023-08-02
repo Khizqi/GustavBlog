@@ -299,6 +299,7 @@
   align-items: center;
   justify-content: center;
   box-shadow: 0 0 25px 10px black;
+  border-bottom: white;
 }
 
 .my-bio::after {
@@ -322,7 +323,6 @@
   padding: 2% 3%;
   padding-top: 3%;
   transform: translateY(10%);
-  height: 100vh;
 }
 
 .bio-content > img {
