@@ -322,6 +322,7 @@
   padding: 2% 3%;
   padding-top: 3%;
   transform: translateY(10%);
+  height: 100vh;
 }
 
 .bio-content > img {
