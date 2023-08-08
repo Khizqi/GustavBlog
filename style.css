@@ -760,8 +760,4 @@ body {
   .bio-content > img {
     display: none;
   }
-
-  .paragraf > p {
-    font-size: 2.5vh;
-  }
 }
